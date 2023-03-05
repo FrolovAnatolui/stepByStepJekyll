@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db32f588-1e33-45cf-b78e-594f46b9875c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_collection-authors/jill.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_collection-authors/ted.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_layouts/author.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/staff.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-05-apples.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-05-apples.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-05-bananas.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-05-bananas.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-03-05-kiwifruit.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-05-kiwifruit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/apples.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/apples.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/bananas.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/bananas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/kiwifruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/kiwifruit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678016941481</updated>
       <workItem from="1678016944370" duration="1171000" />
-      <workItem from="1678020715158" duration="10680000" />
+      <workItem from="1678020715158" duration="11387000" />
     </task>
     <servers />
   </component>
