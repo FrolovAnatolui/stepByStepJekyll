@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db32f588-1e33-45cf-b78e-594f46b9875c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/root/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/root/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/root/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/root/_layouts/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/root/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/root/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678016941481</updated>
       <workItem from="1678016944370" duration="1171000" />
-      <workItem from="1678020715158" duration="5064000" />
+      <workItem from="1678020715158" duration="5773000" />
     </task>
     <servers />
   </component>
