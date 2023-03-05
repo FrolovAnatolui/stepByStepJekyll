@@ -1,0 +1,2 @@
+# myObsidian
+# stepByStepJekyll
