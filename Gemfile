@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 source 'https://rubygems.org'
 
-gem 'jekyll'
+
+# gem 'jekyll'
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   # jekyll-sitemap — создает файл карты сайта, помогающий поисковым системам индексировать контент.

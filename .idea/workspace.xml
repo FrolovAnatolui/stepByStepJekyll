@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db32f588-1e33-45cf-b78e-594f46b9875c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/apples.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/apples.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/bananas.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/bananas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2023/03/05/kiwifruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2023/03/05/kiwifruit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/css/styles.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/jill.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/jill.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/authors/ted.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/authors/ted.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/staff.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/staff.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678016941481</updated>
       <workItem from="1678016944370" duration="1171000" />
-      <workItem from="1678020715158" duration="11387000" />
+      <workItem from="1678020715158" duration="17567000" />
     </task>
     <servers />
   </component>

@@ -18,6 +18,9 @@ defaults:
     values:
       layout: "default"
 
+url: https://frolovanatolui.github.io/
+baseurl: stepByStepJekyll/
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
