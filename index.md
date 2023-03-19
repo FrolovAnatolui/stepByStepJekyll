@@ -1,8 +1,8 @@
 ---
 layout: default
 title: home
+permalink: :path
 ---
 # index
 
-[//]: # ({{site.pages}})
-[//]: # (Это сработало)
+
