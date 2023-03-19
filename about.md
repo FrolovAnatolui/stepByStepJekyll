@@ -1,5 +1,5 @@
 ---
-permalink: stepByStepJekyll/about/
+permalink: about/
 layout: default
 title: About
 ---
