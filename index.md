@@ -3,4 +3,6 @@ layout: default
 title: home
 ---
 # index
-{{site.pages}}
+
+[//]: # ({{site.pages}})
+[//]: # (Это сработало)
