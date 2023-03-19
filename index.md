@@ -1,7 +1,7 @@
 ---
 layout: default
 title: home
-permalink: :path
+permalink: /:path/index
 ---
 # index
 

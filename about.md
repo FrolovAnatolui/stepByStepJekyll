@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: :path
+permalink: /:path/index
 ---
 # About page
 
