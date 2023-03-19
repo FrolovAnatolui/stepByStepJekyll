@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: {{ site.url }}about/
 layout: default
 title: About
 ---
