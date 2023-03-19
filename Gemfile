@@ -13,3 +13,5 @@ group :jekyll_plugins do
   # jekyll-seo-tag — Добавляет метатеги для помощи в SEO.
   gem 'jekyll-seo-tag'
 end
+
+gem "webrick", "~> 1.8"
