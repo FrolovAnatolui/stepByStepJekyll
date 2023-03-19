@@ -1,5 +1,4 @@
 ---
-permalink: {{site.baseurl}}about/
 layout: default
 title: About
 ---
